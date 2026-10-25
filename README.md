@@ -1,7 +1,5 @@
 Runway Reservation # : Permite reservar uma pista de atletismo ou algum material esportivo da modalidade
 
-> **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
-
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
@@ -11,10 +9,7 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
-
-_Escreva aqui a apresentação do projeto._
+O Runway Reservation é um sistema desenvolvido para auxiliar no gerenciamento da pista de atletismo e dos materiais utilizados por professores, atletas e responsáveis pelo espaço. O sistema permitirá cadastrar usuários e materiais, consultar a disponibilidade da pista e dos equipamentos, registrar empréstimos e devoluções, além de manter um histórico de utilização. Dessa forma, será possível controlar melhor os recursos disponíveis, acompanhar quem está utilizando cada material e facilitar o planejamento das atividades realizadas na pista.
 
 ## Documento do projeto
 
