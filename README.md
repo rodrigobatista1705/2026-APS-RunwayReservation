@@ -23,7 +23,7 @@ A numeração é a do modelo de trabalho do IFPR, a mesma dos trabalhos de Proje
 | 4.1 Descrição do Projeto | [docs/4.1-descricao-do-projeto.md](docs/4.1-descricao-do-projeto.md) | ✅ |
 | 4.2 Análise do Sistema | [docs/4.2-analise-do-sistema.md](docs/4.2-analise-do-sistema.md) | ✅ |
 | 4.2.1 Levantamento de Requisitos | [docs/4.2.1-levantamento-de-requisitos.md](docs/4.2.1-levantamento-de-requisitos.md) | ✅ |
-| 4.2.2 Modelagem de Casos de Uso | [docs/4.2.2-casos-de-uso.md](docs/4.2.2-casos-de-uso.md) | ⬜ |
+| 4.2.2 Modelagem de Casos de Uso | [docs/4.2.2-casos-de-uso.md](docs/4.2.2-casos-de-uso.md) | ✅ |
 | 4.2.3 Modelagem de Classes | [docs/4.2.3-classes.md](docs/4.2.3-classes.md) | ⬜ |
 | 4.2.4 Modelagem de Sequência | [docs/4.2.4-sequencia.md](docs/4.2.4-sequencia.md) | ⬜ |
 | 4.2.5 Modelagem de Atividade | [docs/4.2.5-atividade.md](docs/4.2.5-atividade.md) | ⬜ |
